@@ -1,5 +1,5 @@
-Hi, I’m @Venugopal-Kudupudi, Java Fresher and enthusiastic programmer.
-I have learned Core Java, Advanced Java, Hibernate, Sring and Spring boot.
-I also have basic knowledge on HTML, CSS, JavaScript.
+Hi, I’m @Venugopal-Kudupudi, .Net Full Stack Developer.
+I have 3 Years of Experience as a Full Stack developer at iSuite Software Solutions.
+During my tenure I Worked with Angular, Dot Net, SQL Server and Azure.
 
-I’m actively looking for an oppertunity as a Java developer.
+I’m actively looking for an oppertunity as a Full Stack Developer.
